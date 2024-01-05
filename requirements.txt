@@ -1,5 +1,5 @@
 Flask
-flask_sqlalchemy
-flask_migrate
+Flask-SQLAlchemy
+Flask-Migrate
 gunicorn	
 
